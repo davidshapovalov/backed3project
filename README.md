@@ -28,3 +28,7 @@ Put(Note)
 
 Pin (Note)
 <img width="1241" height="880" alt="image" src="https://github.com/user-attachments/assets/34eb2932-96d0-4e69-8ceb-585f85cb664a" />
+
+==============================================================
+
+Get (Category)
