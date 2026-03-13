@@ -31,4 +31,4 @@ Pin (Note)
 
 ==============================================================
 
-Get (Category)
+Neviem, prečo nemôžem pridať fotky pre Categories. Skúšal som to, ale Git mi jednoducho nedovolí pridať fotky do ReadMe. Pošlem vam ich v Edu.
